@@ -1,0 +1,11 @@
+scikit-learn
+xgboost
+pulp
+scipy
+google-generativeai
+google-genai
+pandas
+numpy
+pydantic
+python-dotenv
+python-multipart

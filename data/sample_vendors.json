@@ -1,0 +1,12 @@
+[
+  {"name": "GreenPlate Caterers", "type": "catering", "distance_km": 5.2, "eco_certified": true, "cost_inr": 850},
+  {"name": "Royal Feast", "type": "catering", "distance_km": 18.4, "eco_certified": false, "cost_inr": 650},
+  {"name": "EcoDecor Studio", "type": "decoration", "distance_km": 3.1, "eco_certified": true, "cost_inr": 45000},
+  {"name": "Floral Dreams", "type": "decoration", "distance_km": 22.7, "eco_certified": false, "cost_inr": 28000},
+  {"name": "SolarLite Events", "type": "lighting", "distance_km": 7.8, "eco_certified": true, "cost_inr": 35000},
+  {"name": "Bright Spark Lighting", "type": "lighting", "distance_km": 14.2, "eco_certified": false, "cost_inr": 22000},
+  {"name": "CleanRide Shuttles", "type": "transport", "distance_km": 2.5, "eco_certified": true, "cost_inr": 18000},
+  {"name": "City Cabs", "type": "transport", "distance_km": 9.6, "eco_certified": false, "cost_inr": 12000},
+  {"name": "EcoPrint Cards", "type": "stationery", "distance_km": 6.3, "eco_certified": true, "cost_inr": 8000},
+  {"name": "Classic Cards", "type": "stationery", "distance_km": 31.0, "eco_certified": false, "cost_inr": 4500}
+]

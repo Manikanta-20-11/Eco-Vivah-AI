@@ -1,0 +1,23 @@
+# Node & Frontend
+node_modules/
+dist/
+dist-ssr/
+*.local
+logs/
+*.log
+npm-debug.log*
+
+# Python & Backend
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Database (Optional, but recommended so you don't push local test data)
+*.db
+*.sqlite3
+
+# Editor directories and files
+.vscode/
+.idea/
+.DS_Store
